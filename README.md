@@ -1,3 +1,7 @@
+Capstone_Project
+An academic project work which was done in a group of 5 members in Great Lakes institute of management.
+
+
 # Problem Statement 1 (Supervised ML):
 
 - Predicting the Interest rate on a loan application given pertaining parameters related to loan.
